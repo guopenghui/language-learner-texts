@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "319d0d0d6c3aff84",
+    "type": "split",
+    "children": [
+      {
+        "id": "954117ddda467f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6255d25ee81f9532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研英语一阅读文本/2022/Text3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed092114e4dca351",
+    "type": "split",
+    "children": [
+      {
+        "id": "34387bb48daee3ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "186451545f0c69bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8000b0e771c340e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35379ee1c3dcc6c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7ffd61459d2c27a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e655c53aad77f134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7419bfe59a9148af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研英语一阅读文本/2022/Text3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "657a5cb77851f777",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考研英语一阅读文本/2022/Text3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "541e885aeb8c17f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f933de85787238e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研英语一阅读文本/2022/Text3.md"
+              }
+            }
+          },
+          {
+            "id": "82843485a2e934c1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6255d25ee81f9532",
+  "lastOpenFiles": [
+    "考研英语一阅读文本/2022/Text2.md",
+    "考研英语一阅读文本/2022/Text1.md",
+    "考研英语一阅读文本/2020/Text1.md",
+    "README.md",
+    "Pasted image 20221024191524.png",
+    "考研英语一阅读文本/2021/Text3.md",
+    "考研英语一阅读文本/2021/Text2.md",
+    "考研英语一阅读文本/2021/Text1.md",
+    "考研英语一阅读文本/2020/Text5.md",
+    "考研英语一阅读文本/2020/Trans.md"
+  ]
+}

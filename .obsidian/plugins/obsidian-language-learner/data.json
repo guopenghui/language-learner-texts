@@ -1,0 +1,8 @@
+{
+  "use_server": false,
+  "word_database": "Atlases/MOCs/Mywords.md",
+  "review_database": "Atlases/MOCs/MyEnglishReps.md",
+  "port": 8086,
+  "last_sync": "2022-07-28T11:38:50Z",
+  "db_name": "WordDB"
+}
