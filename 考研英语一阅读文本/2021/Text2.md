@@ -3,6 +3,8 @@ langr : xxx
 langr-origin: 2021-英语一-Text2
 ---
 
+Science News: How Giving Cash to Poor Families May Also Save Trees in Indonesia
+
 ^^^article
 
 Last year marked the third year in a row of when Indonesia’s bleak rate of deforestation has slowed in pace. One reason for the turnaround may be the country’s antipoverty program.

@@ -3,6 +3,8 @@ langr : xxx
 langr-origin: 2021-英语一-Text1
 ---
 
+The Telegraph: Passengers Won't Put up With Ever-Rising Rail Fares Forever
+
 ^^^article
 
 How can the train operators possibly justify yet another increase to rail passenger fares? It has become a grimly reliable annual ritual: every January the cost of travelling by train rises, imposing a significant extra burden on those who have no option but to use the rail network to get to work or otherwise. This year’s rise, an average of 2.7 percent, may be a fraction lower than last year’s, but it is still well above the official Consumer Price Index (CPI) measure of inflation.
